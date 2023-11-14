@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # a small packaging helper
+# ref: https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
 function f_usage() {
     echo
